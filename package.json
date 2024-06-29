@@ -1,0 +1,21 @@
+{
+  "name": "api_etufor",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./src/server.js",
+  "engines": {
+    "node": "20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fastify": "^4.28.0"
+  }
+}
