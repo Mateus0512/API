@@ -7,6 +7,10 @@ app.register(fastifyCors,{
     origin: '*'
 });
 
+app.get('/',(request,reply)=>{
+    reply.send("Server Running");
+});
+
 app.get('/linhas/:nome?', async(request,reply)=>{
     if(request.params){
         const {nome} = request.params;
