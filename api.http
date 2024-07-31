@@ -1,4 +1,4 @@
 GET http://localhost:3333/linhas/
 
 ###
-GET http://localhost:3333/Programacao/041?data=20240628&empresa=02
+GET http://localhost:3333/Programacao/644?data=20240731

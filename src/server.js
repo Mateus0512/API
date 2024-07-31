@@ -1,5 +1,6 @@
 import fastify from "fastify";
 import fastifyCors from "@fastify/cors";
+import { organizarInformacoes } from "./assets/funcoes.js";
 
 const app = fastify();
 
@@ -34,7 +35,16 @@ app.get("/Programacao/:linha", async(request,reply)=>{
     }
     const requesicao =  await fetch(`http://gistapis.etufor.ce.gov.br:8081/api/Programacao/${linha}?data=${data}`);
     const dados = await requesicao.json();
-    reply.status(200).send(dados);
+    const informacoesLinha = organizarInformacoes(dados);
+
+    const quadroDeHorarioArray = Object.entries(informacoesLinha[1]);
+
+
+    reply.status(200).send({
+        informacoesLinha: informacoesLinha[0],
+        quadroDeHorario: quadroDeHorarioArray,
+        aproveitamentos: informacoesLinha[2]
+    });
 });
 
 
