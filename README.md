@@ -8,7 +8,8 @@ A API backend é responsável por obter dados da API oficial da Prefeitura de Fo
 - Obtenção de Dados das Linhas: Requisição à API oficial para obter os nomes das linhas de ônibus.
 - Organização de Dados: Processamento dos dados obtidos para formar quadros de horários e outras informações úteis.
 - Fornecimento de Dados: Disponibilização dos dados processados para o frontend consumir.
-#Tecnologias Utilizadas
+  
+# Tecnologias Utilizadas
 - Servidor Web: Fastify
 - Linguagem de Programação: JavaScript (Node.js)
 - API Oficial: API da Prefeitura de Fortaleza
