@@ -1656,6 +1656,20 @@ export const aproveitamentos =
       "entrada": "19:39"
     }
   ],
+  "257": [
+    {
+      "linha": 1074,
+      "entrada": "06:36"
+    },
+    {
+      "linha": 1074,
+      "entrada": "16:58"
+    },
+    {
+      "linha": 074,
+      "entrada": "20:40"
+    }
+  ]
   "259": [
     {
       "linha": 1815,
