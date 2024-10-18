@@ -1669,7 +1669,7 @@ export const aproveitamentos =
       "linha": 074,
       "entrada": "20:40"
     }
-  ]
+  ],
   "259": [
     {
       "linha": 1815,
