@@ -76,6 +76,30 @@ export const aproveitamentos =
     {
       "linha": 378,
       "entrada": "05:17"
+    },
+    {
+      "linha": 65,
+      "entrada": "06:59"
+    },
+    {
+      "linha": 65,
+      "entrada": "07:41"
+    },
+    {
+      "linha": 65,
+      "entrada": "08:29"
+    },
+    {
+      "linha": 65,
+      "entrada": "17:15"
+    },
+    {
+      "linha": 65,
+      "entrada": "17:58"
+    },
+    {
+      "linha": 65,
+      "entrada": "18:43"
     }
   ],
   "107": [
@@ -128,11 +152,27 @@ export const aproveitamentos =
   ],
   "110": [
     {
+      "linha": 89,
+      "entrada": "07:31"
+    },
+    {
+      "linha": 89,
+      "entrada": "08:03"
+    },
+    {
       "linha": 38,
       "entrada": "17:22"
     }
   ],
   "112": [
+    {
+      "linha": 89,
+      "entrada": "06:22"
+    },
+    {
+      "linha": 89,
+      "entrada": "06:53"
+    },
     {
       "linha": 38,
       "entrada": "08:57"
@@ -140,17 +180,41 @@ export const aproveitamentos =
   ],
   "113": [
     {
+      "linha": 89,
+      "entrada": "07:00"
+    },
+    {
+      "linha": 89,
+      "entrada": "07:38"
+    },
+    {
+      "linha": 89,
+      "entrada": "08:42"
+    },
+    {
       "linha": 38,
       "entrada": "12:32"
     }
   ],
   "114": [
     {
+      "linha": 89,
+      "entrada": "06:50"
+    },
+    {
+      "linha": 89,
+      "entrada": "07:28"
+    },
+    {
       "linha": 38,
       "entrada": "09:40"
     }
   ],
   "115": [
+    {
+      "linha": 89,
+      "entrada": "08:12"
+    },
     {
       "linha": 38,
       "entrada": "16:53"
@@ -162,6 +226,14 @@ export const aproveitamentos =
       "entrada": "06:06"
     },
     {
+      "linha": 89,
+      "entrada": "08:33"
+    },
+    {
+      "linha": 89,
+      "entrada": "09:19"
+    },
+    {
       "linha": 38,
       "entrada": "17:08"
     }
@@ -170,6 +242,14 @@ export const aproveitamentos =
     {
       "linha": 347,
       "entrada": "06:00"
+    },
+    {
+      "linha": 89,
+      "entrada": "08:26"
+    },
+    {
+      "linha": 89,
+      "entrada": "09:06"
     },
     {
       "linha": 38,
@@ -270,12 +350,32 @@ export const aproveitamentos =
     {
       "linha": 300,
       "entrada": "07:00"
+    },
+    {
+      "linha": 300,
+      "entrada": "07:44"
+    },
+    {
+      "linha": 300,
+      "entrada": "09:06"
+    },
+    {
+      "linha": 338,
+      "entrada": "19:08"
     }
   ],
   "126": [
     {
       "linha": 300,
       "entrada": "06:08"
+    },
+    {
+      "linha": 300,
+      "entrada": "06:50"
+    },
+    {
+      "linha": 300,
+      "entrada": "08:06"
     },
     {
       "linha": 355,
@@ -292,6 +392,14 @@ export const aproveitamentos =
       "entrada": "06:18"
     },
     {
+      "linha": 300,
+      "entrada": "07:00"
+    },
+    {
+      "linha": 300,
+      "entrada": "08:17"
+    },
+    {
       "linha": 355,
       "entrada": "15:49"
     }
@@ -302,6 +410,14 @@ export const aproveitamentos =
       "entrada": "06:28"
     },
     {
+      "linha": 300,
+      "entrada": "07:11"
+    },
+    {
+      "linha": 300,
+      "entrada": "08:28"
+    },
+    {
       "linha": 355,
       "entrada": "16:49"
     }
@@ -310,6 +426,18 @@ export const aproveitamentos =
     {
       "linha": 300,
       "entrada": "06:38"
+    },
+    {
+      "linha": 300,
+      "entrada": "07:22"
+    },
+    {
+      "linha": 300,
+      "entrada": "08:40"
+    },
+    {
+      "linha": 300,
+      "entrada": "09:57"
     },
     {
       "linha": 355,
@@ -326,14 +454,46 @@ export const aproveitamentos =
       "entrada": "06:49"
     },
     {
+      "linha": 300,
+      "entrada": "07:33"
+    },
+    {
+      "linha": 300,
+      "entrada": "08:53"
+    },
+    {
       "linha": 335,
       "entrada": "15:41"
+    },
+    {
+      "linha": 335,
+      "entrada": "17:16"
+    },
+    {
+      "linha": 335,
+      "entrada": "18:12"
+    },
+    {
+      "linha": 335,
+      "entrada": "19:10"
     }
   ],
   "131": [
     {
       "linha": 300,
       "entrada": "06:00"
+    },
+    {
+      "linha": 300,
+      "entrada": "06:42"
+    },
+    {
+      "linha": 300,
+      "entrada": "07:55"
+    },
+    {
+      "linha": 300,
+      "entrada": "09:10"
     },
     {
       "linha": 27,
@@ -458,6 +618,22 @@ export const aproveitamentos =
   ],
   "146": [
     {
+      "linha": 87,
+      "entrada": "05:52"
+    },
+    {
+      "linha": 87,
+      "entrada": "06:29"
+    },
+    {
+      "linha": 87,
+      "entrada": "07:47"
+    },
+    {
+      "linha": 87,
+      "entrada": "08:31"
+    },
+    {
       "linha": 44,
       "entrada": "17:28"
     }
@@ -470,6 +646,10 @@ export const aproveitamentos =
     {
       "linha": 87,
       "entrada": "17:10"
+    },
+    {
+      "linha": 87,
+      "entrada": "18:24"
     }
   ],
   "151": [
@@ -692,11 +872,35 @@ export const aproveitamentos =
   ],
   "169": [
     {
+      "linha": 96,
+      "entrada": "06:35"
+    },
+    {
+      "linha": 96,
+      "entrada": "07:32"
+    },
+    {
+      "linha": 96,
+      "entrada": "08:57"
+    },
+    {
       "linha": 76,
       "entrada": "15:22"
     }
   ],
   "170": [
+    {
+      "linha": 96,
+      "entrada": "06:47"
+    },
+    {
+      "linha": 96,
+      "entrada": "07:46"
+    },
+    {
+      "linha": 96,
+      "entrada": "09:09"
+    },
     {
       "linha": 76,
       "entrada": "15:28"
@@ -704,11 +908,27 @@ export const aproveitamentos =
   ],
   "171": [
     {
+      "linha": 96,
+      "entrada": "06:59"
+    },
+    {
+      "linha": 96,
+      "entrada": "08:01"
+    },
+    {
+      "linha": 96,
+      "entrada": "09:24"
+    },
+    {
       "linha": 76,
       "entrada": "15:36"
     }
   ],
   "172": [
+    {
+      "linha": 96,
+      "entrada": "07:21"
+    },
     {
       "linha": 76,
       "entrada": "15:52"
@@ -716,17 +936,29 @@ export const aproveitamentos =
   ],
   "173": [
     {
+      "linha": 96,
+      "entrada": "07:38"
+    },
+    {
       "linha": 76,
       "entrada": "16:08"
     }
   ],
   "174": [
     {
+      "linha": 96,
+      "entrada": "07:55"
+    },
+    {
       "linha": 76,
       "entrada": "16:18"
     }
   ],
   "175": [
+    {
+      "linha": 96,
+      "entrada": "08:07"
+    },
     {
       "linha": 76,
       "entrada": "16:24"
@@ -738,11 +970,19 @@ export const aproveitamentos =
   ],
   "176": [
     {
+      "linha": 96,
+      "entrada": "08:19"
+    },
+    {
       "linha": 76,
       "entrada": "16:50"
     }
   ],
   "177": [
+    {
+      "linha": 96,
+      "entrada": "08:31"
+    },
     {
       "linha": 76,
       "entrada": "16:59"
@@ -752,6 +992,10 @@ export const aproveitamentos =
     {
       "linha": 327,
       "entrada": "05:00"
+    },
+    {
+      "linha": 96,
+      "entrada": "08:43"
     },
     {
       "linha": 327,
@@ -1620,6 +1864,10 @@ export const aproveitamentos =
     {
       "linha": 84,
       "entrada": "16:33"
+    },
+    {
+      "linha": 84,
+      "entrada": "18:08"
     }
   ],
   "261": [
@@ -1872,6 +2120,14 @@ export const aproveitamentos =
     {
       "linha": 50,
       "entrada": "07:11"
+    },
+    {
+      "linha": 397,
+      "entrada": "17:29"
+    },
+    {
+      "linha": 397,
+      "entrada": "18:41"
     }
   ],
   "291": [
@@ -2054,6 +2310,10 @@ export const aproveitamentos =
     {
       "linha": 680,
       "entrada": "04:54"
+    },
+    {
+      "linha": 680,
+      "entrada": "05:46"
     },
     {
       "linha": 407,
@@ -2381,6 +2641,14 @@ export const aproveitamentos =
     }
   ],
   "331": [
+    {
+      "linha": 89,
+      "entrada": "07:05"
+    },
+    {
+      "linha": 89,
+      "entrada": "07:44"
+    },
     {
       "linha": 38,
       "entrada": "16:37"
