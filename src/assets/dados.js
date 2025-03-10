@@ -1,4 +1,4 @@
-// 28/01/2024
+// 10/03/2025
 
 export const aproveitamentos = 
 {
@@ -2001,7 +2001,7 @@ export const aproveitamentos =
     },
     {
       "linha": 50,
-      "entrada": "07:11"
+      "entrada": "07:21"
     },
     {
       "linha": 397,
@@ -2185,7 +2185,7 @@ export const aproveitamentos =
     },
     {
       "linha": 52,
-      "entrada": "06:35"
+      "entrada": "06:24"
     }
   ],
   "306": [
@@ -2534,6 +2534,20 @@ export const aproveitamentos =
     {
       "linha": 38,
       "entrada": "16:37"
+    }
+  ],
+  "332": [
+    {
+      "linha": 647,
+      "entrada": "05:41"
+    },
+    {
+      "linha": 815,
+      "entrada": "06:46"
+    },
+    {
+      "linha": 815,
+      "entrada": "16:08"
     }
   ]
 }
