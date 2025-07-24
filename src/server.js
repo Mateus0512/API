@@ -1,6 +1,6 @@
 import fastify from "fastify";
 import fastifyCors from "@fastify/cors";
-import { organizarInformacoes } from "./assets/funcoes.js";
+import { linhasDoPostoSelecionado, organizarInformacoes } from "./assets/funcoes.js";
 
 const app = fastify();
 
@@ -61,6 +61,26 @@ app.get("/ProgramacaoNormal/:linha", async(request,reply)=>{
     const dados = await requesicao.json();
 
     reply.status(200).send(dados);
+});
+
+app.get("/linhasDoPosto/:posto", async(request,reply)=>{
+    const {posto} = request.params;
+    if(posto){
+        const linhas = linhasDoPostoSelecionado(posto);
+        reply.status(200).send(linhas);
+    }
+});
+
+app.get("/postoControle/:posto?",async(request,reply)=>{
+    if(request.params){
+        const {posto} = request.params;
+        const requisicao = await fetch(`http://gistapis.etufor.ce.gov.br:8081/api/postoControle/${posto}`); 
+        const dados = await requisicao.json();
+        return reply.status(200).send(dados);
+    }
+    const requisicao = await fetch(`http://gistapis.etufor.ce.gov.br:8081/api/postoControle`); 
+    const dados = await requisicao.json();
+    return reply.status(200).send(dados);
 });
 
 

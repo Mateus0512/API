@@ -1,4 +1,5 @@
 import { aproveitamentos } from "./dados.js";
+import { linhasPosto } from "./linhasPosto.js";
 
 export function organizarInformacoes(programacao){
     var quadroDeHorario = [];
@@ -197,5 +198,9 @@ function reduzirHorarios(array){
     }
 
     return temp;
+}
+
+export function linhasDoPostoSelecionado(posto){
+    return linhasPosto[posto];
 }
 
