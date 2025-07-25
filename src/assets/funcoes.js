@@ -204,3 +204,7 @@ export function linhasDoPostoSelecionado(posto){
     return linhasPosto[posto];
 }
 
+export function listasDePostos(){
+    return Object.keys(linhasPosto);
+}
+
