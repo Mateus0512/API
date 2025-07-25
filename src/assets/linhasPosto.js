@@ -2213,7 +2213,7 @@ export const linhasPosto = {
       "numeroNome": "660-Cj Palmeiras/BRT/Centro"
     }
   ],
-  "198 - Rua Evilázio Almeida Miranda/Waldemar de Alcântara/Euclides ": [
+  "198 - Rua Evilázio Almeida Miranda/Waldemar de Alcântara/Euclides": [
     {
       "numero": 611,
       "numeroNome": "611-Cidade Func/Cofeco/Lago Jacarey/Centro"
