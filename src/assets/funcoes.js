@@ -57,7 +57,10 @@ export function organizarInformacoes(programacao){
       let aproveitamentosLinha = [];
       informacoesLinha.mediaTempoPorPosto = tempoMedio;
       for(let table of tabelasAproveitamentos){
-        aproveitamentosLinha.push({tabela: table , aproveitamento: aproveitamentos[table]})
+        if(aproveitamentos[table]){
+            aproveitamentosLinha.push({tabela: table , aproveitamento: aproveitamentos[table]});
+
+        }
       }
 
       return [informacoesLinha,quadroDeHorario,aproveitamentosLinha];
