@@ -1,36 +1,12 @@
 export const linhasPosto = {
   "7 - Estação das Artes disperso/Quadrilátero": [
     {
-      "numero": 101,
-      "numeroNome": "101-Beira Rio/Centro"
-    },
-    {
-      "numero": 102,
-      "numeroNome": "102-Vila Santo Antônio/Nossa Senhora Graças/Centro"
-    },
-    {
-      "numero": 106,
-      "numeroNome": "106-Floresta/Centro"
-    },
-    {
       "numero": 108,
       "numeroNome": "108-Santa Maria/Bairro Ellery/Centro"
     },
     {
-      "numero": 110,
-      "numeroNome": "110-Vila do Mar/Centro"
-    },
-    {
-      "numero": 132,
-      "numeroNome": "132-Av. Leste Oeste/Centro"
-    },
-    {
       "numero": 300,
       "numeroNome": "300-Expresso/Siqueira/Centro"
-    },
-    {
-      "numero": 302,
-      "numeroNome": "302-Rodolfo Teófilo/José Bastos/Centro"
     },
     {
       "numero": 355,
@@ -45,20 +21,12 @@ export const linhasPosto = {
       "numeroNome": "728-Cidade Jardim/José Walter/Centro"
     },
     {
-      "numero": 757,
-      "numeroNome": "757-Vila Velha/Centro"
-    },
-    {
       "numero": 833,
       "numeroNome": "833-Cidade 2000/Centro"
     },
     {
       "numero": 903,
       "numeroNome": "903-Papicu/Varjota/Centro"
-    },
-    {
-      "numero": 905,
-      "numeroNome": "905-Cidade 2000/Vicente Pinzón/Centro"
     },
     {
       "numero": 907,
@@ -82,11 +50,11 @@ export const linhasPosto = {
     },
     {
       "numero": 335,
-      "numeroNome": "335-Bom Jardim I/Siqueira"
+      "numeroNome": "335-Bom Jardim I/Siqueira/Oscar Araripe"
     },
     {
       "numero": 366,
-      "numeroNome": "366-Bom Jardim II/Siqueira"
+      "numeroNome": "366-Bom Jardim II/Siqueira/Bom Jesus"
     }
   ],
   "14 - Terminal da Messejana": [
@@ -148,7 +116,7 @@ export const linhasPosto = {
     },
     {
       "numero": 614,
-      "numeroNome": "614-Curió/Terminal Washington Soares/Messejana"
+      "numeroNome": "614-Curió/Parque São Miguel/Messejana"
     },
     {
       "numero": 616,
@@ -690,7 +658,7 @@ export const linhasPosto = {
     },
     {
       "numero": 806,
-      "numeroNome": "806-Edson Queiróz/Papicu/DYQ"
+      "numeroNome": "806-Édson Queiroz/Papicu/D.Y.Q."
     },
     {
       "numero": 810,
@@ -749,6 +717,10 @@ export const linhasPosto = {
       "numeroNome": "920-Caça e Pesca/Papicu"
     },
     {
+      "numero": 1330,
+      "numeroNome": "1330-Papicu/Centro Girassol"
+    },
+    {
       "numero": 1815,
       "numeroNome": "1815-Expresso/Messejana/Br 116/Papicu"
     }
@@ -756,7 +728,11 @@ export const linhasPosto = {
   "19 - Rua Canário da Terra/Garça Branca/Azulão": [
     {
       "numero": 806,
-      "numeroNome": "806-Edson Queiróz/Papicu/DYQ"
+      "numeroNome": "806-Édson Queiroz/Papicu/D.Y.Q."
+    },
+    {
+      "numero": 816,
+      "numeroNome": "816-Édson Queiroz/Centro/TSF"
     }
   ],
   "20 - Terminal da Lagoa": [
@@ -840,7 +816,7 @@ export const linhasPosto = {
   "21 - Rua Caubi/Estevão de Campos/Pres. Castelo Branco": [
     {
       "numero": 132,
-      "numeroNome": "132-Av. Leste Oeste/Centro"
+      "numeroNome": "132-Av. Leste Oeste/Centro/TSF"
     }
   ],
   "22 - Terminal da Parangaba": [
@@ -966,7 +942,7 @@ export const linhasPosto = {
     },
     {
       "numero": 339,
-      "numeroNome": "339-Cj Veneza Tropical/Mirasol I/Parangaba"
+      "numeroNome": "339-Cj Veneza Tropical/Mirassol I/Parangaba"
     },
     {
       "numero": 340,
@@ -982,7 +958,7 @@ export const linhasPosto = {
     },
     {
       "numero": 349,
-      "numeroNome": "349-Cj Veneza Tropical/Mirasol II/Parangaba"
+      "numeroNome": "349-Cj Veneza Tropical/Mirassol II/Parangaba"
     },
     {
       "numero": 352,
@@ -1026,7 +1002,7 @@ export const linhasPosto = {
     },
     {
       "numero": 379,
-      "numeroNome": "379-Cj Esperança/Parangaba"
+      "numeroNome": "379-Cj Esperança/Novo Mondubim/Parangaba"
     },
     {
       "numero": 390,
@@ -1236,7 +1212,7 @@ export const linhasPosto = {
     },
     {
       "numero": 330,
-      "numeroNome": "330-Cj Esperança/Siqueira"
+      "numeroNome": "330-Cj Esperança/Novo Mondubim/Siqueira"
     },
     {
       "numero": 332,
@@ -1248,7 +1224,7 @@ export const linhasPosto = {
     },
     {
       "numero": 335,
-      "numeroNome": "335-Bom Jardim I/Siqueira"
+      "numeroNome": "335-Bom Jardim I/Siqueira/Oscar Araripe"
     },
     {
       "numero": 336,
@@ -1272,7 +1248,7 @@ export const linhasPosto = {
     },
     {
       "numero": 346,
-      "numeroNome": "346-Jardim Fluminense/Siqueira"
+      "numeroNome": "346-UPA Canindezinho/Jardim Fluminense/Siqueira"
     },
     {
       "numero": 355,
@@ -1292,7 +1268,7 @@ export const linhasPosto = {
     },
     {
       "numero": 366,
-      "numeroNome": "366-Bom Jardim II/Siqueira"
+      "numeroNome": "366-Bom Jardim II/Siqueira/Bom Jesus"
     },
     {
       "numero": 370,
@@ -1300,7 +1276,7 @@ export const linhasPosto = {
     },
     {
       "numero": 376,
-      "numeroNome": "376-Parque Santa Cecília II/Siqueira"
+      "numeroNome": "376-UPA Granja Lisboa/Santa Cecília II/Siqueira"
     },
     {
       "numero": 378,
@@ -1373,6 +1349,12 @@ export const linhasPosto = {
     {
       "numero": 616,
       "numeroNome": "616-Lagoa Redonda/Direita/Messejana"
+    }
+  ],
+  "35 - Rua Juraci M Oliveira, Prof./José Fdes Oliv./Expedito M. C": [
+    {
+      "numero": 1330,
+      "numeroNome": "1330-Papicu/Centro Girassol"
     }
   ],
   "36 - Av. Dep. Oswaldo Studart/Alfredo Weyne/Borges de Melo": [
@@ -1495,10 +1477,6 @@ export const linhasPosto = {
       "numeroNome": "602-Parque Pio XII/Ana Gonçalves/Centro"
     },
     {
-      "numero": 603,
-      "numeroNome": "603-Jardim União/Centro"
-    },
-    {
       "numero": 604,
       "numeroNome": "604-Dias Macedo/Centro"
     },
@@ -1513,10 +1491,6 @@ export const linhasPosto = {
     {
       "numero": 611,
       "numeroNome": "611-Cidade Func/Cofeco/Lago Jacarey/Centro"
-    },
-    {
-      "numero": 612,
-      "numeroNome": "612-Cj Tancredo Neves/Centro"
     },
     {
       "numero": 613,
@@ -1539,20 +1513,12 @@ export const linhasPosto = {
       "numeroNome": "660-Cj Palmeiras/BRT/Centro"
     },
     {
-      "numero": 666,
-      "numeroNome": "666-Jardim Castelão/Centro"
-    },
-    {
       "numero": 701,
       "numeroNome": "701-Parque Americano/Centro"
     },
     {
       "numero": 702,
       "numeroNome": "702-Antônio Sales/Dionísio Torres/Centro"
-    },
-    {
-      "numero": 816,
-      "numeroNome": "816-Edson Queiróz/Centro"
     }
   ],
   "61 - Rua Pedro Sampaio/Pedro Ferreira/Campo Mourão": [
@@ -1581,6 +1547,12 @@ export const linhasPosto = {
     {
       "numero": 638,
       "numeroNome": "638-Pedras/Br 116/Centro"
+    }
+  ],
+  "72 - Castro e Silva/T Gonçalves/24 de Maio": [
+    {
+      "numero": 757,
+      "numeroNome": "757-Vila Velha/Centro"
     }
   ],
   "74 - Rua Anita Garibaldi/Betsaida/Rua do Fim": [
@@ -1639,7 +1611,7 @@ export const linhasPosto = {
       "numeroNome": "327-Cj Ceará/4ª Etapa"
     }
   ],
-  "84 - Av. Des. Germiniano Jurema/Dioguinho/Zezé Diogo": [
+  "84 - Av. Des. Germiniano Jurema/Dioguinho/Pedro Cavalcante": [
     {
       "numero": 656,
       "numeroNome": "656-Messejana/Sabiaguaba/Direita"
@@ -1657,20 +1629,14 @@ export const linhasPosto = {
       "numeroNome": "920-Caça e Pesca/Papicu"
     }
   ],
-  "85 - Av. Cidade Ecológica/Augustinho Soares/Dr. Monteiro": [
-    {
-      "numero": 816,
-      "numeroNome": "816-Edson Queiróz/Centro"
-    }
-  ],
   "88 - Av. B/Penetração Oeste/Rua F (Cj Esperança)": [
     {
       "numero": 330,
-      "numeroNome": "330-Cj Esperança/Siqueira"
+      "numeroNome": "330-Cj Esperança/Novo Mondubim/Siqueira"
     },
     {
       "numero": 379,
-      "numeroNome": "379-Cj Esperança/Parangaba"
+      "numeroNome": "379-Cj Esperança/Novo Mondubim/Parangaba"
     }
   ],
   "89 - Rua Maria Pires/Maranguape/Maria Marques": [
@@ -1794,7 +1760,7 @@ export const linhasPosto = {
   "121 - Av. Plácido Castelo/Cartola/Carmem Miranda": [
     {
       "numero": 612,
-      "numeroNome": "612-Cj Tancredo Neves/Centro"
+      "numeroNome": "612-Cj Tancredo Neves/Centro/TSF"
     }
   ],
   "122 - Rua 15/Rua 5/Rua 4 (Cj Soares Moreno)": [
@@ -1859,7 +1825,7 @@ export const linhasPosto = {
       "numeroNome": "810-Praia do Futuro/Papicu"
     }
   ],
-  "140 - Av. das Castanholeiras/Maria Doralice/Tulipas": [
+  "140 - Av. Nila Gomes de Soárez/Maria Doralice/Tulipas": [
     {
       "numero": 832,
       "numeroNome": "832-Cidade 2000/Papicu"
@@ -1874,7 +1840,7 @@ export const linhasPosto = {
     },
     {
       "numero": 905,
-      "numeroNome": "905-Cidade 2000/Vicente Pinzón/Centro"
+      "numeroNome": "905-Cidade 2000/Vicente Pinzón/Centro/TSF"
     }
   ],
   "142 - José Lima Verde, Radialista/C Branco/E Campos": [
@@ -1923,7 +1889,7 @@ export const linhasPosto = {
       "numeroNome": "102-Vila Santo Antônio/Nossa Senhora Graças/Centro"
     }
   ],
-  "157 - Terminal José de Alencar": [
+  "157 - Terminal Santuário da Fé": [
     {
       "numero": 11,
       "numeroNome": "011-Circular 1/Centro"
@@ -1939,6 +1905,22 @@ export const linhasPosto = {
     {
       "numero": 57,
       "numeroNome": "057-Corujão/Antônio Bezerra/Jardim Iracema/Centro"
+    },
+    {
+      "numero": 101,
+      "numeroNome": "101-Beira Rio/Centro"
+    },
+    {
+      "numero": 102,
+      "numeroNome": "102-Vila Santo Antônio/Nossa Senhora Graças/Centro"
+    },
+    {
+      "numero": 106,
+      "numeroNome": "106-Floresta/Centro/TSF"
+    },
+    {
+      "numero": 110,
+      "numeroNome": "110-Vila do Mar/Centro"
     },
     {
       "numero": 111,
@@ -1957,12 +1939,20 @@ export const linhasPosto = {
       "numeroNome": "115-Jardim Guanabara/Centro"
     },
     {
+      "numero": 132,
+      "numeroNome": "132-Av. Leste Oeste/Centro/TSF"
+    },
+    {
       "numero": 200,
       "numeroNome": "200-Antônio Bezerra/BRT/Centro"
     },
     {
       "numero": 220,
       "numeroNome": "220-Antônio Bezerra/Sargento Hermínio/Centro"
+    },
+    {
+      "numero": 302,
+      "numeroNome": "302-Rodolfo Teófilo/José Bastos/Centro/TSF"
     },
     {
       "numero": 303,
@@ -2061,6 +2051,10 @@ export const linhasPosto = {
       "numeroNome": "502-Vila União/Centro"
     },
     {
+      "numero": 603,
+      "numeroNome": "603-Jardim União/Centro/TSF"
+    },
+    {
       "numero": 605,
       "numeroNome": "605-José Walter/Av. I/Br 116/Centro"
     },
@@ -2069,12 +2063,20 @@ export const linhasPosto = {
       "numeroNome": "606-José Walter/Av. N/Br 116/Centro"
     },
     {
+      "numero": 612,
+      "numeroNome": "612-Cj Tancredo Neves/Centro/TSF"
+    },
+    {
       "numero": 665,
       "numeroNome": "665-Corujão/Messejana/Centro"
     },
     {
+      "numero": 666,
+      "numeroNome": "666-Jardim Castelão/Centro/TSF"
+    },
+    {
       "numero": 670,
-      "numeroNome": "670-Sítio São João/Centro"
+      "numeroNome": "670-José Euclides/Sítio São João/Centro"
     },
     {
       "numero": 709,
@@ -2085,8 +2087,16 @@ export const linhasPosto = {
       "numeroNome": "710-Bom Jardim/Bonsucesso/Centro"
     },
     {
+      "numero": 816,
+      "numeroNome": "816-Édson Queiroz/Centro/TSF"
+    },
+    {
       "numero": 901,
       "numeroNome": "901-Papicu/Dom Luís/Centro"
+    },
+    {
+      "numero": 905,
+      "numeroNome": "905-Cidade 2000/Vicente Pinzón/Centro/TSF"
     },
     {
       "numero": 906,
@@ -2117,10 +2127,10 @@ export const linhasPosto = {
       "numeroNome": "063-Corujão/Bom Jardim/Siqueira/Parangaba"
     }
   ],
-  "170 - Rua 4/Rua 10/Rua 9 (Cj Jardim Castelão)": [
+  "170 - Rua Quatro/Dez/Nove (Cj Jardim Castelão)": [
     {
       "numero": 666,
-      "numeroNome": "666-Jardim Castelão/Centro"
+      "numeroNome": "666-Jardim Castelão/Centro/TSF"
     }
   ],
   "174 - Rua George Rocha/Lineu Machado/Manoel Lourenço": [
@@ -2200,11 +2210,11 @@ export const linhasPosto = {
   "196 - Rua M/Rua B/Rua C (Lot. Expedicionários)": [
     {
       "numero": 339,
-      "numeroNome": "339-Cj Veneza Tropical/Mirasol I/Parangaba"
+      "numeroNome": "339-Cj Veneza Tropical/Mirassol I/Parangaba"
     },
     {
       "numero": 349,
-      "numeroNome": "349-Cj Veneza Tropical/Mirasol II/Parangaba"
+      "numeroNome": "349-Cj Veneza Tropical/Mirassol II/Parangaba"
     }
   ],
   "197 - Rua 35/Rua 6/Rua 5 (Cj Sítio São João)": [
@@ -2213,7 +2223,7 @@ export const linhasPosto = {
       "numeroNome": "660-Cj Palmeiras/BRT/Centro"
     }
   ],
-  "198 - Rua Evilázio Almeida Miranda/Waldemar de Alcântara/Euclides": [
+  "198 - Rua Evilázio Almeida Miranda/Edvirges/Rua de Fátima": [
     {
       "numero": 611,
       "numeroNome": "611-Cidade Func/Cofeco/Lago Jacarey/Centro"
@@ -2254,7 +2264,7 @@ export const linhasPosto = {
   "202 - Rua Tipógrafo Sales/Azevedo Bolão/Gustavo Sampaio": [
     {
       "numero": 302,
-      "numeroNome": "302-Rodolfo Teófilo/José Bastos/Centro"
+      "numeroNome": "302-Rodolfo Teófilo/José Bastos/Centro/TSF"
     }
   ],
   "204 - Rua Frei Odilon/Quadra 1/Sinó Pinheiro": [
@@ -2269,10 +2279,10 @@ export const linhasPosto = {
       "numeroNome": "619-Paupina/Messejana"
     }
   ],
-  "207 - Rua 2 de Maio/Rua B/Central (Cj Jardim União)": [
+  "207 - Rua Dois de Maio/Rua B/Central (Cj Jardim União)": [
     {
       "numero": 603,
-      "numeroNome": "603-Jardim União/Centro"
+      "numeroNome": "603-Jardim União/Centro/TSF"
     }
   ],
   "209 - Rua Pretória Leste/Cônego de Castro/Rua 10": [
@@ -2340,7 +2350,7 @@ export const linhasPosto = {
   "222 - Rua Gerardo Lima/Miguel Guimarães/José Artur de Carvalho": [
     {
       "numero": 614,
-      "numeroNome": "614-Curió/Terminal Washington Soares/Messejana"
+      "numeroNome": "614-Curió/Parque São Miguel/Messejana"
     },
     {
       "numero": 755,
@@ -2360,10 +2370,10 @@ export const linhasPosto = {
   "225 - Rua Cemec/Altenor Almeida/Sangati": [
     {
       "numero": 106,
-      "numeroNome": "106-Floresta/Centro"
+      "numeroNome": "106-Floresta/Centro/TSF"
     }
   ],
-  "229 - Rua Padre Guerra/Raimundo Arruda/Prof. Anacleto": [
+  "229 - Rua Padre Guerra/Prof. Anacleto/Cruz Saldanha": [
     {
       "numero": 108,
       "numeroNome": "108-Santa Maria/Bairro Ellery/Centro"
@@ -2409,7 +2419,7 @@ export const linhasPosto = {
       "numeroNome": "024-Antônio Bezerra/Lagoa/Unifor"
     }
   ],
-  "236 - Osório de Paiva, Gal./Santo Inácio/Paulo Afonso": [
+  "236 - CE": [
     {
       "numero": 400,
       "numeroNome": "400-Osório de Paiva/Siqueira"
@@ -2424,7 +2434,7 @@ export const linhasPosto = {
   "238 - Rua Santa Rita/João Gentil/Medelin": [
     {
       "numero": 376,
-      "numeroNome": "376-Parque Santa Cecília II/Siqueira"
+      "numeroNome": "376-UPA Granja Lisboa/Santa Cecília II/Siqueira"
     },
     {
       "numero": 710,
@@ -2455,7 +2465,7 @@ export const linhasPosto = {
       "numeroNome": "049-Siqueira/Oliveira Paiva/Washington Soares"
     }
   ],
-  "254 - Av. Trairá/Matriz/Jorge Figueredo": [
+  "254 - Rua Jorge Figueredo/Jose Nogueira/Meireles Xavier": [
     {
       "numero": 622,
       "numeroNome": "622-Pedras II/Messejana"
@@ -2477,7 +2487,7 @@ export const linhasPosto = {
       "numeroNome": "310-Campus Universitários/Panamericano/Centro"
     }
   ],
-  "339 - Rua 62/Rua 45/Rua 99 (José Walter)": [
+  "339 - Rua 62/Rua 97/Rua 99 (José Walter)": [
     {
       "numero": 347,
       "numeroNome": "347-José Walter/Av. L/Parangaba"
@@ -2577,7 +2587,7 @@ export const linhasPosto = {
       "numeroNome": "211-Vila Velha/Antônio Bezerra"
     }
   ],
-  "353 - Quadrilátero/Escritores/Fernando Noronha": [
+  "353 - Rua A/Rua C/Rua E/Cj Fernando Noronha": [
     {
       "numero": 652,
       "numeroNome": "652-Cj dos Escritores/Messejana"
@@ -2668,7 +2678,7 @@ export const linhasPosto = {
   "369 - Rua 15/Luíz Gomes de Freitas/Euclides Paulino Barroso": [
     {
       "numero": 346,
-      "numeroNome": "346-Jardim Fluminense/Siqueira"
+      "numeroNome": "346-UPA Canindezinho/Jardim Fluminense/Siqueira"
     }
   ],
   "371 - Rua Augusto Filho/Raimundo Cunha/Major Assis": [
@@ -2681,7 +2691,7 @@ export const linhasPosto = {
       "numeroNome": "213-Jardim Guanabara/Cj Nova Assunção II"
     }
   ],
-  "372 - Av. L/Gama/Av. C (Cj Vila Velha IV)": [
+  "372 - Rua Gama/Rua R/Rua E (Vila Velha IV)": [
     {
       "numero": 114,
       "numeroNome": "114-Cj Nova Assunção/Francisco Sá/Centro"
@@ -2711,7 +2721,7 @@ export const linhasPosto = {
       "numeroNome": "384-Parque Santana/Siqueira"
     }
   ],
-  "377 - Av. Emiliano de Almeida Braga/Sílvia Maria Peroba Pessoa/Amâ": [
+  "377 - Rua Peroba Pessoa/Rua Diamante/Rua Ametista": [
     {
       "numero": 311,
       "numeroNome": "311-Castelão/Parangaba"
@@ -2846,7 +2856,7 @@ export const linhasPosto = {
     },
     {
       "numero": 670,
-      "numeroNome": "670-Sítio São João/Centro"
+      "numeroNome": "670-José Euclides/Sítio São João/Centro"
     }
   ],
   "424 - Rua Sargento Barbosa/Luciano Lira/Wesley Saraiva Rocha": [
